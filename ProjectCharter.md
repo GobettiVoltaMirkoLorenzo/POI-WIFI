@@ -78,9 +78,13 @@
 
 > # 6) Principali risorse e limiti di costo
 > 
-> ejhfwgif
-> 
-> fweiufh
+>   Il progetto costerà circa 10.000 €
+>   Le risorse materiali impegnate riguardano le postazioni di lavoro dei programmatori
+>   I consulenti avranno i seguenti costi orari:
+>   - Consulente Storico: 25 €/h
+>   - Fotografo: 25 €/h
+>   - Traduttore: 30 €/h
+>   - Consulente finanziario: 50 €/h
 
 
 
