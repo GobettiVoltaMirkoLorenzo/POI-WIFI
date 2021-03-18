@@ -79,8 +79,14 @@
 > # 6) Principali risorse e limiti di costo
 > 
 >   Il progetto costerà circa 10.000 €
+>   
 >   Le risorse materiali impegnate riguardano le postazioni di lavoro dei programmatori
->   I consulenti avranno i seguenti costi orari:
+>   
+>   I dipendenti interni avranno i seguenti costi orari:
+>   - Project Manager: 65 €/h
+>   - CTO: 80 €/h
+>   
+>   I consulenti esterni avranno i seguenti costi orari:
 >   - Consulente Storico: 25 €/h
 >   - Fotografo: 25 €/h
 >   - Traduttore: 30 €/h
@@ -89,23 +95,19 @@
 
 
 > # 7) Documenti di riferimento e allegati
-> 
-> ghrhj
-> 
-> grehwo
+>  
+> ///
 
 
 
 > # 8) Struttura organizzativa
 > 
-> jkefhnoifhwq
+> Ing. Innocenti Mirko: Project Manager
 > 
-> fejihwfuw
+> Dott. Bartolini Lorenzo: CTO
 
 
 
 > # 9) Autorizzazione
 > 
-> yjrjrjrjry
-> 
-> htehr
+> Approvato da:
