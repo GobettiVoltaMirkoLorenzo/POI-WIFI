@@ -67,9 +67,12 @@
 
 > # 5) Tempistica Preliminare
 > 
-> yhrrh
-> 
-> trhrh
+>   Il progetto inzia immediatamente (1 giugno 2021) e deve concludersi entro tre mesi (1 settembre 2021)
+>   
+>   Timeline approssimative:
+>   - Avvio:                1/06 -> 8/06
+>   - Realizzazione:        9/06 -> 6/08
+>   - Collaudo e Rilascio : 7/08 -> 22/08
 
 
 
