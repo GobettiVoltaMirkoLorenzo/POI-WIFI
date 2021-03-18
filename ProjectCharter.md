@@ -33,8 +33,8 @@
 > 
 > - Implementazione Database
 > 
-> - Progettazione schema di rete
-> 
+> - Progettazione schema di rete 
+>
 > - Realizzazione sito web di base
 > 
 > - Realizzazione sito web avanzato
@@ -53,9 +53,15 @@
 
 > # 4) Vincoli e dipendenze
 > 
-> dfwbhjfg
+> Le risorse necessarie esterne all'azienda:
 > 
-> fewjfw
+> - Consulente storico
+> 
+> - Fotografo
+> 
+> - Traduttore
+> 
+> - Consulente finanziario 
 
 
 
