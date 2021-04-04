@@ -11,8 +11,6 @@
 > 
 > Realizzare un’infrastruttura tecnologica che offra ai visitatori un servizio per la fruizione di contenuti multimediali che descrivono i punti di interesse (POI).
 
-
-
 > # 2) Principali Deliverable
 > 
 > - Scelta dei punti di interesse
@@ -23,7 +21,7 @@
 > 
 > - Didascalia delle immagini
 > 
-> - Video presetazione dei punti di interesse
+> - Video presentazione dei punti di interesse
 > 
 > - Traduzione testi
 > 
@@ -34,12 +32,10 @@
 > - Implementazione Database
 > 
 > - Progettazione schema di rete 
->
+> 
 > - Realizzazione sito web di base
 > 
 > - Realizzazione sito web avanzato
-
-
 
 > # 3) Milestone
 > 
@@ -48,8 +44,6 @@
 > - Realizzazione Database
 > 
 > - Realizzazione sito web
-
-
 
 > # 4) Vincoli e dipendenze
 > 
@@ -63,50 +57,42 @@
 > 
 > - Consulente finanziario 
 
-
-
 > # 5) Tempistica Preliminare
 > 
 >   Il progetto inzia immediatamente (1 giugno 2021) e deve concludersi entro tre mesi (1 settembre 2021)
->   
+> 
 >   Timeline approssimative:
->   - Avvio:                1/06 -> 8/06
->   - Realizzazione:        9/06 -> 6/08
->   - Collaudo e Rilascio : 7/08 -> 22/08
-
-
+> 
+> - Avvio:                1/06 -> 8/06
+> - Realizzazione:        9/06 -> 6/08
+> - Collaudo e Rilascio : 7/08 -> 22/08
 
 > # 6) Principali risorse e limiti di costo
 > 
 >   Il progetto costerà circa 10.000 €
->   
+> 
 >   Le risorse materiali impegnate riguardano le postazioni di lavoro dei programmatori
->   
+> 
 >   I dipendenti interni avranno i seguenti costi orari:
->   - Project Manager: 65 €/h
->   - CTO: 80 €/h
+> 
+> - Project Manager: 65 €/h
+> - CTO: 80 €/h
 >   
 >   I consulenti esterni avranno i seguenti costi orari:
->   - Consulente Storico: 25 €/h
->   - Fotografo: 25 €/h
->   - Traduttore: 30 €/h
->   - Consulente finanziario: 50 €/h
-
-
+> - Consulente Storico: 25 €/h
+> - Fotografo: 25 €/h
+> - Traduttore: 30 €/h
+> - Consulente finanziario: 50 €/h
 
 > # 7) Documenti di riferimento e allegati
->  
+> 
 > ///
-
-
 
 > # 8) Struttura organizzativa
 > 
 > Ing. Innocenti Mirko: Project Manager
 > 
 > Dott. Bartolini Lorenzo: CTO
-
-
 
 > # 9) Autorizzazione
 > 
